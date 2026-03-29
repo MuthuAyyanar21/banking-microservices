@@ -1,0 +1,3 @@
+CREATE DATABASE IF NOT EXISTS banking_users;
+CREATE DATABASE IF NOT EXISTS banking_accounts;
+CREATE DATABASE IF NOT EXISTS banking_transactions;
